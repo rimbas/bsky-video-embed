@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.0
 // @homepageURL https://github.com/rimbas/bsky-video-embed
-// @downloadUrl https://github.com/rimbas/bsky-video-embed/releases/latest/download/index.user.js
+// @downloadUrl https://github.com/rimbas/bsky-video-embed/raw/refs/heads/master/bsky-video-embed.user.js
 // @author      Rimbas
 // @description 09/04/2025, 18:02:08
 // @require     https://cdn.jsdelivr.net/npm/hls.js@1
